@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T16:46:27.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nr40IQUaZIH5ZRyBLDlg" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T16:50:26.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zoZYs7c-3vb3ZcG_ty_a" version="24.2.7" type="github">
   <diagram name="Page-1" id="znhg0SCUUhbqK9GvKvF4">
     <mxGraphModel dx="1400" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,6 +232,15 @@
         </mxCell>
         <mxCell id="8c7B7hxSat0-A_cdlG8Q-70" value="New Request details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8c7B7hxSat0-A_cdlG8Q-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8c7B7hxSat0-A_cdlG8Q-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Users&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8c7B7hxSat0-A_cdlG8Q-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="760" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
