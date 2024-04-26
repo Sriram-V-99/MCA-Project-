@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T13:03:21.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="O7Er79bOBPmxDMGPxd2R" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:04:39.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wKR-5rmx3C6dA3kW741c" version="24.2.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,11 +161,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrMWwCCt5YhXE3qLw2BB-19" value="&lt;b&gt;Declined request&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="XrMWwCCt5YhXE3qLw2BB-29">
-          <mxGeometry x="0.0526" relative="1" as="geometry">
+          <mxGeometry x="-0.1022" relative="1" as="geometry">
             <mxPoint x="470" y="370" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="510" y="370" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="565" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -230,9 +228,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrMWwCCt5YhXE3qLw2BB-39" value="&lt;b&gt;Accepted user contact shared&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="XrMWwCCt5YhXE3qLw2BB-39" value="&lt;b&gt;Accepted user contact shared&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="XrMWwCCt5YhXE3qLw2BB-4">
           <mxGeometry x="0.2468" relative="1" as="geometry">
-            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="180" y="330" />
             </Array>
