@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T11:00:41.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="deTwaPw2M44LAj2qV0zY" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:08:36.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tjL8EK9s4hAUF4ADmpsy" version="24.2.8" type="github">
   <diagram name="Page-1" id="AgnhyLZByRdbrBLprc9_">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="185" width="600" height="440" as="geometry" />
         </mxCell>
         <mxCell id="MMfc6vFurPr9cZnwIQf3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-1">
@@ -32,34 +32,34 @@
         <mxCell id="MMfc6vFurPr9cZnwIQf3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-4" target="MMfc6vFurPr9cZnwIQf3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-4" value="Registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-4" value="&lt;b&gt;Registration&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="241" y="120" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MMfc6vFurPr9cZnwIQf3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-5" target="MMfc6vFurPr9cZnwIQf3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-5" value="Admin Verification and Approval" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-5" value="&lt;b&gt;Admin Verification and Approval&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="361" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-6" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-6" value="&lt;b&gt;Login&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MMfc6vFurPr9cZnwIQf3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-7" target="MMfc6vFurPr9cZnwIQf3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-7" value="Create Food Request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-7" value="&lt;b&gt;Create Food Request&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MMfc6vFurPr9cZnwIQf3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-8" target="MMfc6vFurPr9cZnwIQf3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-8" value="Accepts Food Request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-8" value="&lt;b&gt;Accepts Food Request&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-9" value="Delivering the Food" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-9" value="&lt;b&gt;Delivering the Food&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMfc6vFurPr9cZnwIQf3-10" value="Closing the request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MMfc6vFurPr9cZnwIQf3-10" value="&lt;b&gt;Closing the request&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MMfc6vFurPr9cZnwIQf3-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MMfc6vFurPr9cZnwIQf3-10" target="MMfc6vFurPr9cZnwIQf3-4">
